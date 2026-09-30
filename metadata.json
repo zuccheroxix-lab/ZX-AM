@@ -1,0 +1,6 @@
+{
+  "name": "MotionEdit",
+  "description": "Mobile-first video editor with XML preset support, media slots, audio sync, multi-layer controls, and client-side MP4/WebM export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
